@@ -1,0 +1,44 @@
+img {
+  width: 300px;
+  border-radius: 50%;
+  margin-bottom: 50px;
+} 
+body{
+  text-align:center;
+  background:linear-gradient(lightblue 0%, lightpink 100%);
+  background-repeat:no-repeat;
+}
+.line {
+  width: 70px;
+  height: 6px;
+  background-color: black;
+  margin: 8px auto;
+  background-color:orange;
+}
+h1{
+  color:yellowgreen;
+}
+p{
+  font-family:serif;
+}
+.menu {
+   list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    position: fixed;
+    color: black;
+    
+}
+.link{
+    float: left;
+    color: black;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+        padding-bottom: 5px;
+    font-size: 15px;
+    font-family: 'Piazzolla' , serif;
+}
